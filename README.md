@@ -12,3 +12,5 @@
 * Feel Free to contact me @ vivaan.rajesh2006@gmail.com
 
 * Have a Good Day!!😄
+
+[![Vivaans's github stats](https://github-readme-stats.vercel.app/api?username=vivaan2006)](https://github.com/vivaan2006/github-readme-stats)
