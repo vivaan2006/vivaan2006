@@ -13,4 +13,6 @@
 
 * Have a Good Day!!😄
 
-https://github-readme-stats.vercel.app/api?username=vivaan2006
+![Vivaan's github stats](https://github-readme-stats.vercel.app/api?username=vivaan2006)
+
+
