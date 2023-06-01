@@ -13,6 +13,4 @@
 
 * Have a Good Day!!😄
 
-![Vivaan's github stats](https://github-readme-stats.vercel.app/api?username=vivaan2006)
-
-
+[![Vivaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivaan2006&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/vivaan2006/github-readme-stats)
