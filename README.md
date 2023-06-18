@@ -8,7 +8,7 @@
 
 * Right now I am learning more about Flutter and Swift
 
-* vivaan2006.github.io/Vivaan-Website/
+* https://vivaan2006.github.io/Vivaan-Website/
 
 * Feel Free to contact me @ vivaan.rajesh2006@gmail.com
 
