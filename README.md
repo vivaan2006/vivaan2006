@@ -7,7 +7,8 @@
 * I am very familiar with Python, HTML, CSS, and know a decent amount pyTorch and JS
 
 * Right now I am learning more about Flutter and Swift
-   - Website under construction
+
+* vivaan2006.github.io/Vivaan-Website/
 
 * Feel Free to contact me @ vivaan.rajesh2006@gmail.com
 
