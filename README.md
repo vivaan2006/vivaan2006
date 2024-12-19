@@ -1,12 +1,12 @@
 * Hey! I'm Vivaan Rajesh 
 
-* Junior at Hillcrest High School and DE student at University Of Utah
+* Computer Science Major at Georiga Tech
 
-* I am really passionate about computer science. My main language is Java 
+* I am really passionate about computer science. My main programming language are Java and Python
 
-* I am very familiar with Python, HTML, CSS, and know a decent amount pyTorch and JS
+* I am very familiar with Java, Python, HTML, CSS and JS, and various libraries within those languages
 
-* Right now I am learning more about Flutter and Swift
+* Right now I am learning more about Swift, and working on projects with Static Python and Microsoft Lean
 
 * https://vivaan2006.github.io/Vivaan-Website/
 
